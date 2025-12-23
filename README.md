@@ -13,11 +13,12 @@ The following CNN architectures are implemented and evaluated:
 Each model is trained under the same experimental settings to ensure fair comparison.
 
 ## Project Structure
-├── BCNN/ # Baseline CNN implementation
-├── Vgg16/ # VGG16 model
-├── Vgg19/ # VGG19 model
-├── RestNet/ # ResNet model
-├── README.md
+.
+├── BCNN/
+├── RestNet/
+├── Vgg16/
+├── Vgg19/
+└── README.md
 
 
 ## Methodology
