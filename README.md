@@ -13,13 +13,15 @@ The following CNN architectures are implemented and evaluated:
 Each model is trained under the same experimental settings to ensure fair comparison.
 
 ## Project Structure
-.
-├── BCNN/
-├── RestNet/
-├── Vgg16/
-├── Vgg19/
-└── README.md
 
+```
+.
+├── BCNN/        # Baseline convolutional neural network
+├── RestNet/     # Residual Network implementation
+├── Vgg16/       # VGG16 architecture
+├── Vgg19/       # VGG19 architecture
+└── README.md
+```
 
 ## Methodology
 - Preprocessing and normalization of image data
